@@ -31,7 +31,7 @@ Password: admin<br>
 </ol>
 
 # Authors
-## Dhruv Bansal
+## Samyak Jain
 <ul>
-<li>Github:https://github.com/dhruvbansal2411</li>
+<li>Github:https://github.com/iamsmyakjain</li>
 </ul>
